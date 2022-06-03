@@ -16,7 +16,7 @@ Here I realized:
   <li><code>List</code></li>
   </ul></li>
   
-<li>Classes:
+  <li><pre>Classes:</pre>
 <ul>
   <li><code><strong>FishyProduct</strong> - Type of product with price.</code></li>
   <li><code><strong>PenguinCustomer</strong> - That's the customer which has product list (FishyProduct List) and available money.</code></li>
@@ -25,9 +25,3 @@ Here I realized:
   <li><code><strong>ExceptionUtil</strong> - Exception class which was used in all cases I needed</code></li>
   </ul></li>
 </ul>  
-
-
-
-<pre><code><span>push</span> <span>"ABC"</span>
-<span>push</span> <span>"DEF"</span>
-<span>pop</span></code>
