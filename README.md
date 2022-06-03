@@ -26,6 +26,8 @@ Here I realized:
   </ul></li>
 </ul>
 <pre><code>
-<a>In this task we have supermarket which contains customers, whenever customer decide to pay off, it will choose the smallest queue.So that they can buy all goods ASAP</a>
+In this task we have supermarket which contains customers.
+Whenever customer decide to pay off, it will choose the smallest queue.
+So that they can buy all goods ASAP
 
 </code></pre>
