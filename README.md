@@ -3,7 +3,7 @@ In this project I created Supermarket :)
 Here I realized:
 <ul>
 <li>Several Data Structures and Connectors based on my needs in this task (<code><strong>I</strong></code> - Interface):
-  <ul><pre>
+  <ul>
   <li><code>(<strong>I</strong>) DataStructure</code></li>
   <li><code>(<strong>I</strong>) DataStructureConnector</code></li>
   <li><code>DataStructureLink</code></li>
@@ -14,16 +14,16 @@ Here I realized:
   <li><code>LinkedStack</code></li>
   <li><code>StackConnector</code></li>
   <li><code>List</code></li>
-  </pre></ul></li>
+  </ul></li>
   
-<pre><li>Classes:
+<li>Classes:
 <ul>
   <li><code><strong>FishyProduct</strong> - Type of product with price.</code></li>
   <li><code><strong>PenguinCustomer</strong> - That's the customer which has product list (FishyProduct List) and available money.</code></li>
   <li><code><strong>Checkout</strong> - That's checkout service, which calculates sum of all products and pays off with customer.</code></li>
   <li><code><strong>PenguinSupermarket</strong> - Basically class, that uses all of the above classes.</code></li>
   <li><code><strong>ExceptionUtil</strong> - Exception class which was used in all cases I needed</code></li>
-  </ul></li></pre>
+  </ul></li>
 </ul>  
 
 
