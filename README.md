@@ -1,6 +1,5 @@
 In this project I created Supermarket :)
 --
-<pre>
 Here I realized:
 <ul>
 <li><strong>Several Data Structures and Connectors based on my needs in this task (<code><strong>I</strong></code> - Interface):</strong>
@@ -26,4 +25,3 @@ Here I realized:
   <li><code><strong>ExceptionUtil</strong> - Exception class which was used in all cases I needed</code></li>
   </ul></li>
 </ul>
-</pre>
