@@ -3,7 +3,7 @@ In this project I created Supermarket :)
 Here I realized:
 <ul>
 <li>Several Data Structures and Connectors based on my needs in this task:
-<ul>
+  <ul> <strong>I</strong> - Interface
   <li><code>(<strong>I</strong>) DataStructure</code></li>
   <li><code>(<strong>I</strong>) DataStructureConnector</code></li>
   <li><code>DataStructureLink</code></li>
