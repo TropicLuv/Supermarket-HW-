@@ -1,8 +1,8 @@
-In this project I created Supermarket :)
+<pre>In this project I created Supermarket <strong>:)</strong></pre>
 --
 Here I realized:
 <ul>
-<li><pre>Several Data Structures and Connectors based on my needs in this task (<code><strong>I</strong></code> - Interface):</pre>
+<li><strong>Several Data Structures and Connectors based on my needs in this task (<code><strong>I</strong></code> - Interface):</strong>
   <ul>
   <li><code>(<strong>I</strong>) DataStructure</code></li>
   <li><code>(<strong>I</strong>) DataStructureConnector</code></li>
@@ -16,7 +16,7 @@ Here I realized:
   <li><code>List</code></li>
   </ul></li>
   
-  <li><pre>Classes:</pre>
+  <li><strong>Classes:</strong>
 <ul>
   <li><code><strong>FishyProduct</strong> - Type of product with price.</code></li>
   <li><code><strong>PenguinCustomer</strong> - That's the customer which has product list (FishyProduct List) and available money.</code></li>
@@ -24,4 +24,4 @@ Here I realized:
   <li><code><strong>PenguinSupermarket</strong> - Basically class, that uses all of the above classes.</code></li>
   <li><code><strong>ExceptionUtil</strong> - Exception class which was used in all cases I needed</code></li>
   </ul></li>
-</ul>  
+</ul>
