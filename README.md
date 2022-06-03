@@ -1,4 +1,4 @@
-<pre>In this project I created Supermarket <strong>:)</strong></pre>
+In this project I created Supermarket :)
 --
 Here I realized:
 <ul>
